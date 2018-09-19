@@ -57,7 +57,6 @@ function placeOrder(cardNumber) {
   } else {
     return "Sorry, we don't have a credit card on file for you."
   }
-  // write your code here
 }
 
 function removeFromCart(item) {
